@@ -15,8 +15,8 @@ Welcome to my profile! I am a data enthusiast, part-time weightlifter and full-t
 - Learning about multiple database platforms such as Oracle, Azure, MySQL, PostgreSQL
 
 ### Get in touch
-- Email: tranthuyan.198@gmail.com
-- LinkedIn: www.linkedin.com/in/antran-28
+- [Email](tranthuyan.198@gmail.com)
+- [LinkedIn](www.linkedin.com/in/antran-28)
 
 
 

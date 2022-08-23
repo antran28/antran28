@@ -1,4 +1,4 @@
-### Hi I'm Ann 👋 
+## Hi! I'm Ann 👋 
 
 Welcome to my profile! I am a data enthusiast, part-time weightlifter and full-time movie geek ✨
 
@@ -10,6 +10,7 @@ Welcome to my profile! I am a data enthusiast, part-time weightlifter and full-t
 
 ### I'm currently working on
 
+- Pursuing my Master degree in Business Analyst at University of Technology Sydney
 - Brushing up my data cleaning and wrangling skills using Python
 - Using tools like Tableau and Power BI to visualise datasets
 - Learning about multiple database platforms such as Oracle, Azure, MySQL, PostgreSQL

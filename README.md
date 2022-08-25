@@ -1,4 +1,4 @@
-## Hi! I'm Ann 👋 
+# Hi! I'm Ann 👋 
 
 Welcome to my profile! I am a data enthusiast, part-time weightlifter and full-time movie geek ✨
 

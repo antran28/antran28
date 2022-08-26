@@ -8,7 +8,7 @@ Welcome to my profile! I am a data enthusiast, part-time weightlifter and full-t
 - 📖 Excel, SQL and Python are my love languages
 - 🧠 Beginner's mindset and curiosity
 
-### I'm currently working on
+### I'm currently working on 🚴🏻‍♀️
 
 - Pursuing my Master degree in Business Analyst at University of Technology Sydney
 - Brushing up my data cleaning and wrangling skills using Python

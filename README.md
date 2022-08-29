@@ -1,22 +1,19 @@
-# Hi! I'm Ann 👋 
+<h2  align="center"> Hi! I'm Ann 👋 Welcome to my profile! 
 
-Welcome to my profile! I am a data enthusiast, part-time weightlifter and full-time movie geek ✨
+## About me 🌱
+- I am a data enthusiast, part-time weightlifter and full-time movie geek ✨
+- Marketing and hospitality background transitions to data analyst 💁‍♀️
+- Excel, SQL and Python are my love languages 📖
+- Beginner's mindset and curiosity 🧠
 
-### About me 🌱
-
-- 💁‍♀️ Marketing and hospitality background transitions to data analyst
-- 📖 Excel, SQL and Python are my love languages
-- 🧠 Beginner's mindset and curiosity
-
-### I'm currently working on 🚴🏻‍♀️
+## I'm currently working on 🚴🏻‍♀️
 
 - Pursuing my Master degree in Business Analyst at University of Technology Sydney
 - Brushing up my data cleaning and wrangling skills using Python
 - Using tools like Tableau and Power BI to visualise datasets
 - Learning about multiple database platforms such as Oracle, Azure, MySQL, PostgreSQL
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+<hr>
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
@@ -25,6 +22,9 @@ Welcome to my profile! I am a data enthusiast, part-time weightlifter and full-t
   <a href="mailto:tranthuyan.198@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<hr>
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
 
 

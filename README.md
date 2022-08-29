@@ -15,9 +15,14 @@ Welcome to my profile! I am a data enthusiast, part-time weightlifter and full-t
 - Using tools like Tableau and Power BI to visualise datasets
 - Learning about multiple database platforms such as Oracle, Azure, MySQL, PostgreSQL
 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 ### Get in touch
 - [Email](tranthuyan.198@gmail.com)
-- [LinkedIn](www.linkedin.com/in/antran-28)
+
+<a target="_blank"href="https://www.linkedin.com/in/antran-28/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  
+
+
 
 
 

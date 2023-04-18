@@ -2,8 +2,7 @@
 
 ## About me 🌱
 - I am a data enthusiast, part-time weightlifter and full-time movie geek ✨
-- Marketing and hospitality background transitions to data analyst 💁‍♀️
-- Excel, SQL and Python are my love languages 📖
+- Tableau, Alteryx and SQL are my love languages 📖
 - Beginner's mindset and curiosity 🧠
 
 ## I'm currently working on 🚴🏻‍♀️

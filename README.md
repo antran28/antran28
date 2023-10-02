@@ -1,4 +1,4 @@
-<h2  align="center"> Hi! I'm Ann Tran 👋 Welcome to my profile! 
+<h2  align="center"> Hi! I'm An Tran 👋 Welcome to my profile! 
 
 ## About me 🌱
 - I am a data enthusiast, part-time weightlifter and full-time movie geek ✨

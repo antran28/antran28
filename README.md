@@ -8,7 +8,7 @@
 ## I'm currently working on 🚴🏻‍♀️
 
 - Pursuing my Master degree in Business Analyst at University of Technology Sydney (UTS)
-- Brushing up my data cleaning and wrangling skills using Python
+- Brushing up my data cleaning and wrangling skills using Python, PySpark
 - Using tools like Tableau and Power BI to visualise datasets
 - Learning about multiple database platforms such as Oracle, Azure, MySQL, PostgreSQL
 
